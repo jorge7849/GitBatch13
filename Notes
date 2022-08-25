@@ -34,4 +34,15 @@ Tracking your first project
 
 to delete a repo, simply delete the git. folder
 
-3.git status--> shows u 
+3.git status--> shows u untracked files in red color
+            --> shows u tracked files in green color
+
+4. git add.-----> moves all the files to the staging area
+
+5. git commit -m "commit message" --> sends all the files from the staging area to the local repo
+6. git status after the commit shows working tree clean  becuase  we have
+   all the threee stages i.e working directory , staging area and local repo synchronised
+
+
+---------------------------------Some Advance git commands-------------
+1. to view the files in your staging area  git ls-files
