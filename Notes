@@ -1,0 +1,37 @@
+review
+what is git
+it is a version control tool
+
+2.what is a local repository?
+a storage that is on our computer
+
+what is a remote repository
+github
+
+Architecture of git
+
+3-stage architecture working directory, staging area,repo
+
+working directory--------->>>>>>
+
+
+gitproject1---> pom,src,target, .idea
+
+where should you create your local git repository?
+ideally you should create your repo inside your working directory i.e in this case gitproject1
+
+Notes
+one repo for one single project
+no subRepos are advised
+
+
+
+
+Tracking your first project
+
+1.decide the location where to create the repository and navigate
+2.initialize an empty repository  git init----> to initialize an empty repository
+
+to delete a repo, simply delete the git. folder
+
+3.git status--> shows u 
